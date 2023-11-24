@@ -7,9 +7,9 @@
 
 <!-- /!\ do not modify above this line -->
 
-# interface-github
+# Tools for GitHub repo management
 
-TODO: add repo description.
+Manage GitHub repos directly from Odoo
 
 <!-- /!\ do not modify below this line -->
 
